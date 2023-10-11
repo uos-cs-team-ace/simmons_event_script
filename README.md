@@ -70,3 +70,6 @@
 - 이벤트 46: A'가 FlagB""에 근접하면 로그C의 값을 D"'만큼 (증가/감소/대입)한다.
 - 이벤트 47: A' B' 충돌시 로그C의 값을 D"'만큼 (증가/감소/대입)한다.
 - 이벤트 48: A'의 B"가 조건C(Over, Under, Equl, Differ) D"'을 만족하면 로그E의 값을 F"'만큼 (증가/감소/대입)한다.
+
+
+이벤트 시연 : [YouTubeLink](https://youtu.be/m4Wxte23GWw)
